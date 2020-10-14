@@ -1,6 +1,9 @@
 
 # Flutter frontend and etcd backend application.
 
+This project is a demo for my technical article on Medium: 
+https://medium.com/better-programming/create-a-simple-admin-ui-with-flutter-and-etcd-1d00c788014d
+
 A simple Admin UI. Dynamic TabBarView and DataTable UI. Fetching data from etcd http request.
 
 ## How to start this project:
